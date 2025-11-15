@@ -30,7 +30,7 @@ https://github.com/LuizBail2/APP_RESTAURANTE
 1. Instale as dependências: flutter pub get
 
 ## Rodar o app
-3. Execute o app flutter  run -d chrome
+2. Execute o app flutter  run -d chrome
 
 ## 📌 Melhorias Futuras
 1. Tela de cadastro e administração de restaurantes
