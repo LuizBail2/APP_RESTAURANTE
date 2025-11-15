@@ -15,14 +15,22 @@ Muitas pessoas quando estão em viagem em outras cidades tem dificuldades de loc
 🧾 Tela de perfil
 
 ## 🚀 Tecnologias Utilizadas
-Flutter,
-Dart,
-Firebase (Auth / Firestore),
-VS Code.
+1. Flutter
+2. Dart
+3. Firebase (Auth / Firebase Authentication)
+4. VS Code.
+5. Arquitetura com Models.
 
-## 🛠️ Como Rodar o Projeto
+# 🛠️ Como Rodar o Projeto
+
+## Clone o projeto
+https://github.com/LuizBail2/APP_RESTAURANTE
+
+## Instale as dependências
 1. Instale as dependências: flutter pub get
-2. Execute o app flutter  run -d chrome
+
+## Rodar o app
+3. Execute o app flutter  run -d chrome
 
 ## 📌 Melhorias Futuras
 1. Tela de cadastro e administração de restaurantes
