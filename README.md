@@ -1,16 +1,34 @@
-# app_restaurante
+# 👨‍💻 Autor
+1. Luiz Gustavo Bail
+2. 📧 luizgustavobail4@gmail.com
+3. https://github.com/LuizBail2
 
-A new Flutter project.
+# APP Restaurante
 
-## Getting Started
+Muitas pessoas quando estão em viagem em outras cidades tem dificuldades de localizar bons restaurantes, esse plicativo resolve esse obstáculo, ele busca de restaurantes, mostrando localização,horarios de funcionamento e cardapios.
 
-This project is a starting point for a Flutter application.
+## Funcionalidades
+👤 Login e cadastro,
+🍽️ Busca de Restaurentes pelo nome da cidade,
+🗺️ Localização do restaurante (mostrando o endereço),
+📋 Detalhes do restaurante (como cardapios e horários de funcionamento),
+🧾 Tela de perfil
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Tecnologias Utilizadas
+Flutter,
+Dart,
+Firebase (Auth / Firestore),
+VS Code.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Como Rodar o Projeto
+1. Instale as dependências: flutter pub get
+2. Execute o app flutter  run -d chrome
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📌 Melhorias Futuras
+1. Tela de cadastro e administração de restaurantes
+2. Implementação de mapas do google via API
+3. Melhorias na tela do perfil do usuário
+
+
+
+
